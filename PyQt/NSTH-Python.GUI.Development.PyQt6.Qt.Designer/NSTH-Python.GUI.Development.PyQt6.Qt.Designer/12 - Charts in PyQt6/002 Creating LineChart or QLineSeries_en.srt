@@ -1,0 +1,472 @@
+1
+00:00:00,830 --> 00:00:06,920
+In this lesson, we want to learn that how we can install pie charts and also how you can create your
+
+2
+00:00:06,920 --> 00:00:08,990
+first line chart using pie cutie.
+
+3
+00:00:09,470 --> 00:00:11,270
+So first of all, what is line chart?
+
+4
+00:00:11,300 --> 00:00:18,500
+Now line charts are typically presented as a series of pints, or we can say markers that are connected
+
+5
+00:00:18,500 --> 00:00:20,390
+by lines and a line chart.
+
+6
+00:00:20,390 --> 00:00:26,390
+The points are connected by straight lines to show the changes of the variables over period of time.
+
+7
+00:00:26,810 --> 00:00:29,150
+Now let's create a practical example.
+
+8
+00:00:29,870 --> 00:00:37,520
+Now, before creating of our example for the line chart, we need to install pie charts because by default
+
+9
+00:00:37,550 --> 00:00:39,380
+we don't have charts and pie cut.
+
+10
+00:00:39,740 --> 00:00:47,360
+And for that we need to install a pie charts library so you can just use Pip install and after that
+
+11
+00:00:47,360 --> 00:00:48,620
+the library name.
+
+12
+00:00:49,010 --> 00:00:50,870
+Let me just install this.
+
+13
+00:00:50,870 --> 00:00:56,930
+And here in the terminal we can just paste this and after that hit enter.
+
+14
+00:00:58,550 --> 00:01:03,920
+Now, if you're using Pyqt5, then you need to install this library.
+
+15
+00:01:03,950 --> 00:01:10,400
+You cannot use this library for pyqt5 and for Pyqt5.
+
+16
+00:01:10,430 --> 00:01:12,890
+You can just use this library.
+
+17
+00:01:14,580 --> 00:01:18,000
+Now our pie charts has been installed.
+
+18
+00:01:18,420 --> 00:01:25,260
+So let's create another directory in here and I'm going to just call it part seven.
+
+19
+00:01:25,260 --> 00:01:28,380
+And in here we are going to create a new Python file.
+
+20
+00:01:28,380 --> 00:01:31,200
+And let me just call it line chart.
+
+21
+00:01:31,980 --> 00:01:37,890
+So first, let's create our first window using pie cut.
+
+22
+00:01:38,460 --> 00:01:43,800
+And so first we need some imports, dot cut widgets.
+
+23
+00:01:43,800 --> 00:01:48,510
+We are going to import application and also main window.
+
+24
+00:01:49,560 --> 00:01:54,090
+After that we are going to import dot cut.
+
+25
+00:01:55,020 --> 00:02:00,030
+We are going to import queue icon because we want to add an icon for our window.
+
+26
+00:02:00,120 --> 00:02:07,350
+Also, we need to copy the icon folder from here from part one and we can add that in the part seven.
+
+27
+00:02:07,710 --> 00:02:11,610
+And in here we have just a simple python dot PNG.
+
+28
+00:02:13,300 --> 00:02:18,490
+And after this we need to import our charts library.
+
+29
+00:02:18,490 --> 00:02:29,010
+So from Python six dot cut up charts we are going to import Q chart and also Q chart view.
+
+30
+00:02:29,020 --> 00:02:33,010
+Now, when you're going to create charts, these two are important.
+
+31
+00:02:33,040 --> 00:02:36,820
+Now we will have a Q chart and after that we will have a chart view.
+
+32
+00:02:36,850 --> 00:02:44,050
+We can add the Q chart to the chart view, and after that you can add the type of the chart that what
+
+33
+00:02:44,050 --> 00:02:45,310
+type you want to create.
+
+34
+00:02:45,310 --> 00:02:47,650
+For example, we are going to use Q line series.
+
+35
+00:02:47,680 --> 00:02:54,290
+Now, Q line series means that we want to create a line chart and also we are going to import says.
+
+36
+00:02:55,490 --> 00:02:58,730
+So now let's create our class window.
+
+37
+00:02:58,730 --> 00:03:01,340
+And this class extends from main window.
+
+38
+00:03:01,370 --> 00:03:06,680
+I'm not going to describe all of them because I've already described that you can create your first
+
+39
+00:03:07,160 --> 00:03:11,390
+window using pie cut and we can just create this in here.
+
+40
+00:03:11,390 --> 00:03:15,860
+And let me just add my init and also super function in here.
+
+41
+00:03:15,860 --> 00:03:17,270
+So dot.
+
+42
+00:03:18,170 --> 00:03:20,360
+Uh, in it.
+
+43
+00:03:21,200 --> 00:03:26,000
+And after this, let's set the geometry of the window.
+
+44
+00:03:26,030 --> 00:03:32,300
+It means the X and Y position and also the width and height of the window.
+
+45
+00:03:33,470 --> 00:03:35,510
+Also, we need to set the window title.
+
+46
+00:03:35,510 --> 00:03:37,790
+So set window title.
+
+47
+00:03:38,120 --> 00:03:48,260
+And I can just say, for example, our line chart and we can set the icon.
+
+48
+00:03:48,260 --> 00:03:52,610
+So set window icon and it expects icon.
+
+49
+00:03:52,610 --> 00:03:57,680
+We have already imported icon in here and here you can give the name of the icon.
+
+50
+00:03:57,680 --> 00:04:02,330
+So that is in the images folder we have Python dot PNG.
+
+51
+00:04:03,850 --> 00:04:07,150
+Now let's create the instance of the application class.
+
+52
+00:04:07,150 --> 00:04:12,010
+So in here I can just say app application.
+
+53
+00:04:12,010 --> 00:04:16,209
+I can pass this dot argument V or argv.
+
+54
+00:04:16,420 --> 00:04:24,040
+After that, we can create the object of our window class and now we need to show the window and at
+
+55
+00:04:24,040 --> 00:04:31,270
+the end we need to execute our app so we can just say sess dot exit, app dot execute.
+
+56
+00:04:31,270 --> 00:04:36,460
+So now if I run this, you will see that I have just a simple window.
+
+57
+00:04:38,480 --> 00:04:42,770
+Now let's just create our line chart or line series.
+
+58
+00:04:42,770 --> 00:04:47,480
+So the first thing is that in here I'm going to just create a method.
+
+59
+00:04:47,480 --> 00:04:50,840
+So I'm going to just call it diff line chart.
+
+60
+00:04:51,440 --> 00:04:54,560
+And after that we need to create our line series.
+
+61
+00:04:54,560 --> 00:04:56,360
+So line series.
+
+62
+00:04:57,810 --> 00:05:05,730
+And now we need to append some data or we can say some points to this series or line series.
+
+63
+00:05:05,760 --> 00:05:11,640
+Now in here we need to import another class.
+
+64
+00:05:11,640 --> 00:05:21,180
+So from Picked6 dot core, we are going to import cube point F, so cue point f.
+
+65
+00:05:22,640 --> 00:05:31,880
+And now up in here, we can just say dot append and we can add a list in here, a list of Q point F,
+
+66
+00:05:32,810 --> 00:05:47,600
+So we can just give some points in here like this and Q point F, we can add another one like this.
+
+67
+00:05:48,620 --> 00:06:04,520
+Q point F, uh, three and 268 And also we can just use some more Q point F, So it's a floating point
+
+68
+00:06:05,540 --> 00:06:07,550
+four and.
+
+69
+00:06:08,560 --> 00:06:09,730
+Like this.
+
+70
+00:06:10,300 --> 00:06:12,250
+Let's create another one.
+
+71
+00:06:12,880 --> 00:06:14,830
+And this is five.
+
+72
+00:06:15,820 --> 00:06:17,530
+120.
+
+73
+00:06:18,160 --> 00:06:19,810
+And the last one.
+
+74
+00:06:19,810 --> 00:06:20,950
+Let's give another one.
+
+75
+00:06:20,950 --> 00:06:22,480
+And this is the last one.
+
+76
+00:06:23,380 --> 00:06:27,040
+We can just give it 210 like this.
+
+77
+00:06:27,520 --> 00:06:32,500
+So after adding our pints to the line series.
+
+78
+00:06:32,530 --> 00:06:34,810
+Now we need to create a chart.
+
+79
+00:06:35,110 --> 00:06:36,160
+The object of the chart.
+
+80
+00:06:36,160 --> 00:06:42,430
+As I've already said that in every for example, every chart that we want to create first, we need
+
+81
+00:06:42,430 --> 00:06:46,420
+to create the instance of the chart, and after that we need to create the chart view.
+
+82
+00:06:46,450 --> 00:06:48,700
+We can add the charts and the chart view.
+
+83
+00:06:48,850 --> 00:06:56,920
+Now let's say chart chart and now we can add our series in the chart.
+
+84
+00:06:56,920 --> 00:06:59,890
+So add series and we can just add it in here.
+
+85
+00:07:00,340 --> 00:07:06,460
+And after doing this, we now we need to create our chart view.
+
+86
+00:07:07,030 --> 00:07:09,530
+And now I can just say chart.
+
+87
+00:07:10,460 --> 00:07:11,450
+Chart.
+
+88
+00:07:11,900 --> 00:07:12,690
+View.
+
+89
+00:07:14,300 --> 00:07:15,200
+Chart View.
+
+90
+00:07:15,230 --> 00:07:17,540
+Let's add the chart and the chart view.
+
+91
+00:07:18,200 --> 00:07:23,570
+And after that we can set the central widget to the chart view.
+
+92
+00:07:25,430 --> 00:07:28,070
+Now let's call our line chart.
+
+93
+00:07:28,070 --> 00:07:30,320
+So self dot, line chart.
+
+94
+00:07:31,310 --> 00:07:33,170
+And now if I run this.
+
+95
+00:07:34,200 --> 00:07:37,770
+So you can see that we have a line chart in here.
+
+96
+00:07:39,030 --> 00:07:42,780
+Now you can add some more options in here.
+
+97
+00:07:42,780 --> 00:07:47,520
+For example, we can create a default axis in here.
+
+98
+00:07:47,520 --> 00:07:53,820
+So we can just say create default axis and also we can set a title.
+
+99
+00:07:53,970 --> 00:07:59,430
+So set title, we can just say line chart example.
+
+100
+00:08:03,010 --> 00:08:05,860
+Now you can see that we have some default axis.
+
+101
+00:08:05,860 --> 00:08:08,770
+And also we have our line chart in here.
+
+102
+00:08:09,760 --> 00:08:10,930
+Line chart title.
+
+103
+00:08:10,930 --> 00:08:12,700
+Also, you can add animation.
+
+104
+00:08:12,700 --> 00:08:19,030
+So you can just say chart dot set animation options.
+
+105
+00:08:19,510 --> 00:08:21,580
+There are different animations that you can use.
+
+106
+00:08:21,580 --> 00:08:29,190
+So if we say animation options dot, you can see we have all animations, we have series animations,
+
+107
+00:08:29,200 --> 00:08:31,810
+for example, if I choose all animations.
+
+108
+00:08:33,070 --> 00:08:36,820
+And if I run this, you can see that we have a nice animation here.
+
+109
+00:08:36,820 --> 00:08:38,169
+Let me just run it again.
+
+110
+00:08:38,169 --> 00:08:40,390
+So this is the animation that we have.
+
+111
+00:08:40,510 --> 00:08:44,620
+And if I say, for example, series animations.
+
+112
+00:08:46,020 --> 00:08:50,370
+So you can see that we have another type of animations in here.
+
+113
+00:08:51,240 --> 00:08:54,420
+Also, you can set a theme for the chart.
+
+114
+00:08:54,420 --> 00:09:01,620
+So I can just say chart dot, set theme, and then here we can use chart.
+
+115
+00:09:01,650 --> 00:09:04,760
+Also, there are different chart theme that you can use.
+
+116
+00:09:04,770 --> 00:09:08,700
+For example, we can use a chart theme dark.
+
+117
+00:09:08,970 --> 00:09:14,460
+And if I run this so you can see we have a dark, dark theme for this.
+
+118
+00:09:15,630 --> 00:09:18,390
+So like this you can create a line chart and peaked.
+

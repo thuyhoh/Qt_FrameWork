@@ -1,0 +1,220 @@
+1
+00:00:00,920 --> 00:00:05,120
+In this lesson, we want to create a bar chart or bar series.
+
+2
+00:00:06,830 --> 00:00:14,600
+Let me create a new python file in here and I'm going to just call it bar chart.
+
+3
+00:00:14,600 --> 00:00:21,710
+And so this is my simple window code and let me change the title to bar chart.
+
+4
+00:00:24,020 --> 00:00:30,890
+So now first we need to add our imports dot charts.
+
+5
+00:00:30,920 --> 00:00:34,100
+We are going to import chart.
+
+6
+00:00:34,130 --> 00:00:38,600
+Our chart view and also Cube bar series.
+
+7
+00:00:38,600 --> 00:00:42,020
+And also we need to import cube bar set.
+
+8
+00:00:44,670 --> 00:00:47,940
+Or we need to add a percent bar series.
+
+9
+00:00:47,940 --> 00:00:50,070
+So percent bar series.
+
+10
+00:00:51,120 --> 00:00:58,500
+Now let's create our add Create bar app.
+
+11
+00:00:58,500 --> 00:01:03,450
+So first we need to create our setting here and we can just say Q bar set.
+
+12
+00:01:04,050 --> 00:01:06,690
+And let me just add some names in here.
+
+13
+00:01:07,740 --> 00:01:09,030
+Set one.
+
+14
+00:01:11,290 --> 00:01:12,970
+AQ bar set
+
+15
+00:01:16,000 --> 00:01:19,390
+and let me just copy and paste.
+
+16
+00:01:20,350 --> 00:01:20,710
+This.
+
+17
+00:01:20,710 --> 00:01:23,710
+So this is, uh.
+
+18
+00:01:23,890 --> 00:01:29,020
+Let me just add a name in here, and we can change this to bar set to.
+
+19
+00:01:29,530 --> 00:01:32,860
+And also we can create another one.
+
+20
+00:01:32,860 --> 00:01:34,210
+So this is the last one.
+
+21
+00:01:35,080 --> 00:01:40,810
+And I can add a name and we can change this to bar set three.
+
+22
+00:01:42,810 --> 00:01:45,210
+So after creating of our sets.
+
+23
+00:01:45,240 --> 00:01:48,750
+Now let's add some data to these bar sets.
+
+24
+00:01:50,500 --> 00:01:52,690
+Now let me paste the data.
+
+25
+00:01:52,690 --> 00:01:58,270
+So these are some data that I have added in the bar sets some value.
+
+26
+00:01:58,570 --> 00:02:05,640
+And after adding this, now let's create our series in here so we can just say Series Cube person,
+
+27
+00:02:05,650 --> 00:02:10,750
+City Bar series, and now we can append the sets in here.
+
+28
+00:02:10,750 --> 00:02:11,860
+So set.
+
+29
+00:02:12,740 --> 00:02:15,830
+Zero and dot append.
+
+30
+00:02:16,160 --> 00:02:17,570
+Set one.
+
+31
+00:02:19,070 --> 00:02:20,600
+Dot append.
+
+32
+00:02:20,810 --> 00:02:25,130
+Set two and dot append.
+
+33
+00:02:25,340 --> 00:02:27,350
+And this is set three.
+
+34
+00:02:29,090 --> 00:02:32,810
+So after creating this, let's create our chart in here.
+
+35
+00:02:32,810 --> 00:02:33,860
+So chart.
+
+36
+00:02:34,880 --> 00:02:35,600
+Chart.
+
+37
+00:02:36,080 --> 00:02:41,960
+And we can add the series in the chart.
+
+38
+00:02:43,130 --> 00:02:48,050
+And after that we can create our chart view.
+
+39
+00:02:48,080 --> 00:02:51,080
+In here chart view.
+
+40
+00:02:51,590 --> 00:02:54,410
+And let's add the chart and the chart view.
+
+41
+00:02:54,410 --> 00:03:00,530
+And after that we can just say self dot set central widget to the chart view.
+
+42
+00:03:03,540 --> 00:03:07,200
+Now let's run this and the bar chart.
+
+43
+00:03:07,380 --> 00:03:11,040
+So we are not seeing any chart because we need to call this.
+
+44
+00:03:14,030 --> 00:03:17,090
+So self dot create bar.
+
+45
+00:03:19,300 --> 00:03:22,360
+Now you can see that we are seeing our bar charts in here.
+
+46
+00:03:23,320 --> 00:03:30,400
+You can add some, for example, animations or title to the chart as we have already done.
+
+47
+00:03:30,400 --> 00:03:38,890
+And we can just say chart dot, set animation options, chart dot animation options dot for example,
+
+48
+00:03:38,920 --> 00:03:42,030
+all animations, we can add titles.
+
+49
+00:03:42,030 --> 00:03:49,870
+So chart dot, set title and we can say bar chart.
+
+50
+00:03:53,230 --> 00:03:54,100
+Example.
+
+51
+00:03:54,100 --> 00:03:57,430
+Now, also you can add a theme for the chart.
+
+52
+00:03:57,430 --> 00:04:07,390
+So you can just say chart dot set, and we can just say chart dot chart, theme dot.
+
+53
+00:04:07,390 --> 00:04:10,450
+And there different we are going to use, for example, dark.
+
+54
+00:04:10,720 --> 00:04:15,580
+And now if I run this so you can see that this is our chart.
+
+55
+00:04:15,610 --> 00:04:18,399
+We have a theme and also we have animation for that.
+

@@ -1,0 +1,252 @@
+1
+00:00:00,900 --> 00:00:06,000
+We have already studied how we can create a person bar series and picked.
+
+2
+00:00:06,570 --> 00:00:13,200
+Now, in this lesson we want to create a stacked bar series and we are going to create a temperature
+
+3
+00:00:13,200 --> 00:00:14,130
+bar chart.
+
+4
+00:00:14,970 --> 00:00:16,950
+Now let's create our example.
+
+5
+00:00:17,730 --> 00:00:27,060
+So I've already copied my window code and let me change the title to a stacked bar series.
+
+6
+00:00:28,510 --> 00:00:34,810
+And now I need my imports from picked6 dot charts.
+
+7
+00:00:35,530 --> 00:00:39,520
+I'm going to import a cue bar set.
+
+8
+00:00:41,300 --> 00:00:42,050
+Q.
+
+9
+00:00:42,860 --> 00:00:44,750
+Stacked Bar series.
+
+10
+00:00:45,830 --> 00:00:48,400
+We need a Q value axis.
+
+11
+00:00:49,310 --> 00:00:51,590
+Q Chart.
+
+12
+00:00:53,020 --> 00:00:54,270
+Q chart view.
+
+13
+00:00:54,660 --> 00:00:58,080
+And also Q Bar category access.
+
+14
+00:01:01,170 --> 00:01:10,890
+Now let me create my, uh, bar set in here so I can just say low Q bar set, and let me just say mean.
+
+15
+00:01:10,890 --> 00:01:20,190
+And also I can just give high and we can say Q bar set and let's add Max in here.
+
+16
+00:01:21,090 --> 00:01:27,210
+Now we need to append some data to the these bar sets to the low and high.
+
+17
+00:01:27,240 --> 00:01:29,370
+So let me just paste the data.
+
+18
+00:01:29,580 --> 00:01:32,490
+And these are the data that I'm going to add.
+
+19
+00:01:32,490 --> 00:01:33,570
+So low dot append.
+
+20
+00:01:33,600 --> 00:01:37,800
+These are the set of the data and the list of the data.
+
+21
+00:01:38,070 --> 00:01:43,440
+And after that for the high also I'm going to append some value in here.
+
+22
+00:01:44,010 --> 00:01:48,360
+After that, we need to create our stacked bar series.
+
+23
+00:01:48,360 --> 00:01:53,820
+So series Q stacked bar series.
+
+24
+00:01:54,780 --> 00:01:59,370
+And now we can append our High and low and the Stacked Bar series.
+
+25
+00:01:59,370 --> 00:02:03,150
+So series dot append.
+
+26
+00:02:04,410 --> 00:02:09,150
+And we can add our low and dot paint.
+
+27
+00:02:09,630 --> 00:02:11,340
+We can add the high in here.
+
+28
+00:02:12,920 --> 00:02:21,920
+Now, after this, let's create our chart in here and also we can add the series to the chart.
+
+29
+00:02:23,480 --> 00:02:31,670
+Also, we can set the title so I can just say temperature
+
+30
+00:02:33,560 --> 00:02:40,790
+record and for example, sell CEUs like this.
+
+31
+00:02:41,360 --> 00:02:44,480
+And after this, now we need to create our category.
+
+32
+00:02:46,260 --> 00:02:50,790
+So these are some categories of the month that I have pasted in here.
+
+33
+00:02:50,910 --> 00:02:58,560
+And let's create our, uh, category axis so I can just say axis X.
+
+34
+00:02:59,430 --> 00:03:01,980
+Uh, Q bar category.
+
+35
+00:03:02,670 --> 00:03:04,890
+And now we can append.
+
+36
+00:03:05,220 --> 00:03:10,200
+So dot append, and we can add the categories in here.
+
+37
+00:03:10,560 --> 00:03:19,300
+And also we can just set the title, not title phone, but it should be, uh.
+
+38
+00:03:21,190 --> 00:03:28,390
+Subtitle, title, text, and we can just say Matt and.
+
+39
+00:03:29,780 --> 00:03:38,480
+So now after setting the title text, now we can add that to the chart.
+
+40
+00:03:38,480 --> 00:03:53,810
+So chart dot add axis and we can just add axis X and also we need to import from picked6 dot cuticle.
+
+41
+00:03:53,810 --> 00:03:56,490
+We are going to import acuity.
+
+42
+00:03:56,570 --> 00:04:05,480
+We need to give the alignment for this axis so we can just say cutie dot alignment, flag dot align
+
+43
+00:04:05,480 --> 00:04:17,570
+bottom and after this we can create the chart view in here and we can just say chart view and let's
+
+44
+00:04:17,600 --> 00:04:20,480
+add that in the chart to the chart view.
+
+45
+00:04:20,570 --> 00:04:27,410
+And also we can just say self dot set central widget to the chart view.
+
+46
+00:04:27,410 --> 00:04:35,070
+So before this, let's create our so we have created our axis X.
+
+47
+00:04:35,760 --> 00:04:42,480
+Also we need to create axis Y so that will be a value for the value axis.
+
+48
+00:04:42,480 --> 00:05:00,480
+So in here we can just say axis y and Q value axis and let's add a dot set range -52 and also 52.
+
+49
+00:05:01,970 --> 00:05:05,560
+Now let's set title.
+
+50
+00:05:06,530 --> 00:05:11,390
+Title Text to temperature.
+
+51
+00:05:12,200 --> 00:05:16,730
+And so we can add the sign of the degree in here.
+
+52
+00:05:16,730 --> 00:05:21,740
+So this is the sign of degree.
+
+53
+00:05:22,550 --> 00:05:24,830
+And after that we can add that to the chart.
+
+54
+00:05:24,830 --> 00:05:33,170
+So dot add axis, axis y dot alignment, flag dot align left.
+
+55
+00:05:33,170 --> 00:05:43,070
+So we want to add this in the left of the chart and now we can just say series dot attach.
+
+56
+00:05:45,220 --> 00:05:46,000
+Access.
+
+57
+00:05:46,600 --> 00:05:54,100
+So the first one is X, and also we can attach the Y.
+
+58
+00:05:55,960 --> 00:05:58,780
+So now let's run this.
+
+59
+00:05:59,820 --> 00:06:02,400
+So we should run this from here.
+
+60
+00:06:02,430 --> 00:06:03,000
+Okay.
+
+61
+00:06:03,150 --> 00:06:09,510
+Now you can see that we have our temperature record, and this is our temperature data.
+
+62
+00:06:09,810 --> 00:06:13,350
+And we have a stacked bar chart in here also.
+
+63
+00:06:13,350 --> 00:06:14,670
+These are the months.
+

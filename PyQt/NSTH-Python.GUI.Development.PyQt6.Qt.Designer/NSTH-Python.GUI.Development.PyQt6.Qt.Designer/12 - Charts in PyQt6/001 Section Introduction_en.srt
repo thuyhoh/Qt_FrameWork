@@ -1,0 +1,16 @@
+1
+00:00:01,110 --> 00:00:04,980
+In this section, we want to learn that we can create charts and peaked.
+
+2
+00:00:05,580 --> 00:00:08,970
+We will learn that how you can create charts using picked.
+
+3
+00:00:09,180 --> 00:00:13,790
+And also we will learn that how we can create charts using qtquick and also HTML.
+
+4
+00:00:13,890 --> 00:00:16,890
+That's called markup language.
+

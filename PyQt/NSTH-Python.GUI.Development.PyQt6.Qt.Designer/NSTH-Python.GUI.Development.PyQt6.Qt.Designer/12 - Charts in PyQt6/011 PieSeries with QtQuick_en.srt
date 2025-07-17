@@ -1,0 +1,92 @@
+1
+00:00:00,950 --> 00:00:05,800
+In this lesson, we want to create pie series or pie chart using qtquick.
+
+2
+00:00:06,050 --> 00:00:10,040
+Now let's open our PyCharm and create our example.
+
+3
+00:00:11,620 --> 00:00:14,950
+I'm going to create a new XML file.
+
+4
+00:00:14,950 --> 00:00:19,150
+And let me just say pie chart dot HTML.
+
+5
+00:00:19,720 --> 00:00:26,260
+And as always, we can copy these codes from here.
+
+6
+00:00:27,140 --> 00:00:29,510
+Because I don't want to write these again.
+
+7
+00:00:29,510 --> 00:00:36,500
+And let's close this, close this and change this to pie chart.
+
+8
+00:00:38,690 --> 00:00:45,290
+And in here we can just say pie series.
+
+9
+00:00:47,630 --> 00:00:49,520
+Let's add ID to this.
+
+10
+00:00:49,520 --> 00:00:55,130
+So for example, Pie series and also we can add pie slice.
+
+11
+00:00:57,340 --> 00:00:59,050
+We should have the label.
+
+12
+00:00:59,890 --> 00:01:05,470
+So, for example, we can give Python and the value.
+
+13
+00:01:05,920 --> 00:01:07,960
+We can give a value for this.
+
+14
+00:01:08,740 --> 00:01:21,970
+Let's create another pie slice and the label is cplusplus and the value is 80.
+
+15
+00:01:24,710 --> 00:01:25,910
+Pie slice.
+
+16
+00:01:26,990 --> 00:01:35,360
+The label is Java and this is not comma, but it should be like this.
+
+17
+00:01:37,750 --> 00:01:46,330
+So Java and the value is 60 pie slice.
+
+18
+00:01:47,530 --> 00:01:49,150
+The label as.
+
+19
+00:01:50,160 --> 00:01:51,330
+C-sharp.
+
+20
+00:01:52,890 --> 00:01:56,580
+And the value is 40.
+
+21
+00:01:57,810 --> 00:02:05,640
+And now we can just add this to the engine dot load pie chart.
+
+22
+00:02:06,480 --> 00:02:08,130
+And let's run load.
+
+23
+00:02:09,120 --> 00:02:13,380
+Now you can see that we have our pi charm and qtc and also QML.
+

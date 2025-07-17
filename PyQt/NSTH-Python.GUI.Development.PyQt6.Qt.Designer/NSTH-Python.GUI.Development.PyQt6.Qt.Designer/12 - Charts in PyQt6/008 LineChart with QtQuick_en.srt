@@ -1,0 +1,432 @@
+1
+00:00:01,350 --> 00:00:04,910
+So we have already saw that how we can create our charts using pie.
+
+2
+00:00:05,640 --> 00:00:09,750
+Now how we can create our charts using QTC and also QML.
+
+3
+00:00:09,780 --> 00:00:12,060
+That's called markup language.
+
+4
+00:00:12,120 --> 00:00:16,860
+Now the first chart that we want to create, that's called line chart.
+
+5
+00:00:18,660 --> 00:00:24,960
+So let me create my QML file in here and let me just say line chart dot qml.
+
+6
+00:00:28,340 --> 00:00:33,620
+Now i already have a complete section on using QTC and also QML.
+
+7
+00:00:33,740 --> 00:00:39,050
+So before starting off this this section you can also check that section.
+
+8
+00:00:39,560 --> 00:00:49,970
+Now the first thing is that we are going to import our question here so we can just import qtquick 2.5
+
+9
+00:00:50,210 --> 00:01:01,070
+and also we are going to import QTC dot controls.
+
+10
+00:01:01,070 --> 00:01:07,040
+We can add the version and also we need to import charts.
+
+11
+00:01:07,220 --> 00:01:09,770
+So charts 2.5.
+
+12
+00:01:10,610 --> 00:01:14,750
+Now after this, let's create our application window in here.
+
+13
+00:01:15,110 --> 00:01:23,120
+And the first thing is that we need to create our window so I can just make it to true.
+
+14
+00:01:23,690 --> 00:01:31,710
+And also we can add a width of 600 and also a height of 400.
+
+15
+00:01:31,740 --> 00:01:37,440
+Now we can give a title to the window and that is line chart.
+
+16
+00:01:38,280 --> 00:01:39,060
+So.
+
+17
+00:01:39,180 --> 00:01:44,910
+And now we have created our dot HTML file and right now we can not run this.
+
+18
+00:01:44,940 --> 00:01:50,160
+We need to create another python file and we need to load our this dot HTML file.
+
+19
+00:01:50,280 --> 00:01:56,490
+Let me just create a another python file and let me just call it load.py.
+
+20
+00:01:57,660 --> 00:02:02,400
+So now let's create our let's add our imports.
+
+21
+00:02:03,240 --> 00:02:16,110
+So first from HTML, we are going to import QML application engine and also from core we are going to
+
+22
+00:02:16,110 --> 00:02:17,040
+import.
+
+23
+00:02:18,150 --> 00:02:18,870
+Q.
+
+24
+00:02:19,910 --> 00:02:30,740
+Object and from cutesy widgets, we want to import application.
+
+25
+00:02:31,400 --> 00:02:33,380
+Also, we are going to import sass.
+
+26
+00:02:34,610 --> 00:02:40,910
+Now let's create our window class that extends from object.
+
+27
+00:02:41,780 --> 00:02:46,610
+And let's create our init and also super.
+
+28
+00:02:48,280 --> 00:02:50,050
+And let me just remove this.
+
+29
+00:02:53,270 --> 00:02:54,050
+We do need that.
+
+30
+00:02:54,050 --> 00:02:54,380
+Okay.
+
+31
+00:02:54,380 --> 00:03:01,850
+Now, after this, let's create the object of our application or the instance of the application in
+
+32
+00:03:01,850 --> 00:03:02,150
+here.
+
+33
+00:03:02,150 --> 00:03:09,500
+We can pass this.org or if we're not using a command line utility, you can just leave it an empty list.
+
+34
+00:03:09,800 --> 00:03:12,170
+After that, we need to create the engine.
+
+35
+00:03:12,170 --> 00:03:22,460
+So in here I can just say engine QML application engine and after creating of the engine, now we can
+
+36
+00:03:22,460 --> 00:03:24,710
+create our window in here.
+
+37
+00:03:27,550 --> 00:03:35,800
+Also, we need to register our window and the context of the HTML so we can just say engine dot.
+
+38
+00:03:36,760 --> 00:03:37,770
+Root context.
+
+39
+00:03:37,840 --> 00:03:38,320
+Art.
+
+40
+00:03:38,800 --> 00:03:44,650
+Set context property and we can say window and we can add our window.
+
+41
+00:03:45,970 --> 00:03:48,730
+So after doing this now it's important point.
+
+42
+00:03:48,760 --> 00:03:57,940
+Now we need to load our QML file so we can use engine dot load and we can give the name of the queue.
+
+43
+00:03:58,180 --> 00:04:01,840
+So line chart dot qml.
+
+44
+00:04:03,280 --> 00:04:09,250
+And at the end we can just execute our app.
+
+45
+00:04:09,250 --> 00:04:11,800
+So app dot execute.
+
+46
+00:04:12,190 --> 00:04:14,410
+Now let's run this.
+
+47
+00:04:14,890 --> 00:04:15,970
+Run the load.
+
+48
+00:04:18,899 --> 00:04:21,570
+So we are not seeing anything.
+
+49
+00:04:21,690 --> 00:04:24,290
+It means that we have a.
+
+50
+00:04:25,770 --> 00:04:26,940
+Problem in here.
+
+51
+00:04:28,790 --> 00:04:30,650
+Application window.
+
+52
+00:04:31,670 --> 00:04:33,740
+Visible through width height.
+
+53
+00:04:35,410 --> 00:04:37,180
+So now the problem is in here.
+
+54
+00:04:37,180 --> 00:04:39,640
+I have a typo, so it's pretty quick.
+
+55
+00:04:40,030 --> 00:04:41,470
+Let's run it again.
+
+56
+00:04:41,500 --> 00:04:44,470
+Now you can see that we have our window in here.
+
+57
+00:04:45,580 --> 00:04:47,950
+Now let's create our charts.
+
+58
+00:04:47,950 --> 00:04:52,540
+So we have already imported our this cutie charts in here.
+
+59
+00:04:52,780 --> 00:04:56,520
+Now, so first, let me just comment this.
+
+60
+00:04:56,530 --> 00:05:02,380
+And now up first, I need to create my chart view in here.
+
+61
+00:05:03,490 --> 00:05:09,880
+And as I've already said, for creating our charts, first we need to create chart view and also we
+
+62
+00:05:09,880 --> 00:05:11,110
+need to create chart.
+
+63
+00:05:11,710 --> 00:05:16,930
+So in here we just we need to, we need chart view and here we do need to create chart.
+
+64
+00:05:17,080 --> 00:05:20,870
+We can just create, add our charts and the chart view.
+
+65
+00:05:20,890 --> 00:05:25,960
+So now I can just say anchors dot fill.
+
+66
+00:05:26,700 --> 00:05:28,710
+And I can just make it patent.
+
+67
+00:05:29,880 --> 00:05:37,260
+We can just say anti aliasing and we can just make it true.
+
+68
+00:05:37,650 --> 00:05:40,200
+Also, we can set the theme for this.
+
+69
+00:05:40,770 --> 00:05:45,870
+For example, chart view dot chart.
+
+70
+00:05:46,840 --> 00:05:49,690
+The team dark.
+
+71
+00:05:50,260 --> 00:05:57,370
+So now, after creating off the chart view, now we can add our line series in the chart view.
+
+72
+00:05:57,370 --> 00:06:00,520
+So I can just say line series.
+
+73
+00:06:02,550 --> 00:06:11,490
+You can add the name, for example name, and I can just say line series.
+
+74
+00:06:11,910 --> 00:06:20,520
+Now we can add our pints, so we can just say x, y pint and we can add the x pint.
+
+75
+00:06:20,790 --> 00:06:25,230
+So for example, zero and also Y to zero.
+
+76
+00:06:27,570 --> 00:06:29,250
+We can add another one.
+
+77
+00:06:29,250 --> 00:06:33,420
+So x, y, pint and.
+
+78
+00:06:35,460 --> 00:06:39,990
+X 1.1 and Y.
+
+79
+00:06:41,150 --> 00:06:42,290
+2.1.
+
+80
+00:06:44,120 --> 00:06:45,890
+Let's copy this.
+
+81
+00:06:50,030 --> 00:06:59,660
+And the X should be, for example, 1.9 and this should be 2.5.
+
+82
+00:07:02,150 --> 00:07:10,040
+For example, a 2.1 and it should be 3.11 or whatever.
+
+83
+00:07:10,040 --> 00:07:10,760
+You can just.
+
+84
+00:07:10,790 --> 00:07:15,320
+We want to add some data, some data points in here for the X and Y position.
+
+85
+00:07:16,370 --> 00:07:17,660
+3.4.
+
+86
+00:07:21,080 --> 00:07:23,780
+And four pint.
+
+87
+00:07:24,730 --> 00:07:25,420
+To.
+
+88
+00:07:26,900 --> 00:07:36,650
+And the last one is, for example, 4.3 and 3.1.
+
+89
+00:07:37,340 --> 00:07:40,430
+So now if I run this.
+
+90
+00:07:43,110 --> 00:07:45,240
+You can see that we are not seeing anything.
+
+91
+00:07:45,270 --> 00:07:50,850
+And that's because because we also need to add a cutie charts.
+
+92
+00:07:50,880 --> 00:07:52,560
+Now if I run this.
+
+93
+00:07:54,250 --> 00:07:56,410
+I am not seeing anything.
+
+94
+00:07:57,070 --> 00:08:00,910
+Let me first comment this and let's check that.
+
+95
+00:08:00,910 --> 00:08:12,070
+Where is the problem chart team talk and and here we have error like this and t it should be like this.
+
+96
+00:08:12,070 --> 00:08:13,510
+Let's run it again.
+
+97
+00:08:14,580 --> 00:08:17,040
+So we are not seeing any chart.
+
+98
+00:08:17,430 --> 00:08:22,320
+And that's because because we haven't imported the charts.
+
+99
+00:08:24,520 --> 00:08:26,920
+And again, we have problem.
+
+100
+00:08:29,120 --> 00:08:31,210
+And anti.
+
+101
+00:08:33,510 --> 00:08:36,690
+And this is the problem again, Ali.
+
+102
+00:08:37,700 --> 00:08:38,850
+It should be like this.
+
+103
+00:08:38,860 --> 00:08:39,510
+Yeah.
+
+104
+00:08:39,520 --> 00:08:42,340
+Now you can see that we have our line series in here.
+
+105
+00:08:42,340 --> 00:08:50,020
+And if I comment this, for example, and if I run this, you can see that we are not seeing any charts
+
+106
+00:08:50,020 --> 00:08:56,170
+because we need to import along with these we and also controls.
+
+107
+00:08:56,170 --> 00:08:58,240
+We need to import -- charts.
+
+108
+00:08:58,240 --> 00:09:01,930
+And if I run this, you can see that we have our line chart.
+

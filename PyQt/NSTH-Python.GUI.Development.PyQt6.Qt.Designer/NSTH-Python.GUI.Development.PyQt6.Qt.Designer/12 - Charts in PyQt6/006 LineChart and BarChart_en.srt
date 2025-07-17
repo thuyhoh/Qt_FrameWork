@@ -1,0 +1,172 @@
+1
+00:00:01,420 --> 00:00:05,620
+Let's create our line chart and also bar chart together.
+
+2
+00:00:08,890 --> 00:00:10,510
+I can create a new python file.
+
+3
+00:00:10,590 --> 00:00:13,930
+And let me just say line bar chart.
+
+4
+00:00:14,680 --> 00:00:22,390
+And this is our simple code for creating out the window line line chart and.
+
+5
+00:00:23,670 --> 00:00:24,420
+Bar chart.
+
+6
+00:00:26,910 --> 00:00:37,730
+So now let's add our imports in here, so from kutty charts, we are going to import Kubra Buckyball
+
+7
+00:00:37,890 --> 00:00:38,180
+set.
+
+8
+00:00:39,360 --> 00:00:40,710
+We need a CubeSat series.
+
+9
+00:00:42,330 --> 00:00:48,300
+We need to chart view and also queue chart and also queue line cities.
+
+10
+00:00:54,010 --> 00:00:59,140
+So and here first, we need to create our basket.
+
+11
+00:01:00,010 --> 00:01:05,890
+So let me just start at zero Q Marcet and we can just act.
+
+12
+00:01:08,560 --> 00:01:11,480
+Some names in here, and let me just copy this.
+
+13
+00:01:12,220 --> 00:01:15,340
+For example, Bob.
+
+14
+00:01:18,580 --> 00:01:25,240
+And also, we can create another one, and this should be told.
+
+15
+00:01:26,290 --> 00:01:36,520
+And let me just add another one, and this should be Mary and also Sam.
+
+16
+00:01:37,900 --> 00:01:43,360
+Now, let's change this to Borsa to three and also four.
+
+17
+00:01:44,260 --> 00:01:51,550
+So now after creating of the bar set to now, we need to add some detail where upends some data to this
+
+18
+00:01:51,970 --> 00:01:54,280
+to this these baskets that we have created.
+
+19
+00:01:55,570 --> 00:02:01,260
+Now, let me paste my data in here so you can see that these are data that I have appended to the to
+
+20
+00:02:01,270 --> 00:02:01,810
+the sets.
+
+21
+00:02:02,680 --> 00:02:07,360
+And after this, let's create our bar series in here.
+
+22
+00:02:08,470 --> 00:02:13,480
+And I can just take your bar series and let's print the sets.
+
+23
+00:02:13,480 --> 00:02:28,570
+And the boss's daughter open societies set zero and got up and set one and bar dot append and we have.
+
+24
+00:02:29,800 --> 00:02:30,610
+Said to.
+
+25
+00:02:34,590 --> 00:02:45,660
+Bar series dot upand we can set three and bar series dot a pan, and this is set for now author this
+
+26
+00:02:45,660 --> 00:02:47,350
+Let's create our line series.
+
+27
+00:02:47,350 --> 00:02:50,700
+So line series and cue line series.
+
+28
+00:02:51,480 --> 00:02:57,060
+And now we need to add some pine sauce, some data to the line series.
+
+29
+00:02:57,690 --> 00:03:00,150
+So let me just import queue point if.
+
+30
+00:03:01,380 --> 00:03:08,760
+So from Dodd Cuticura, we are going to quote you pint.
+
+31
+00:03:10,830 --> 00:03:14,550
+If so, we are going to add floating point in here.
+
+32
+00:03:16,890 --> 00:03:18,570
+Now let's create our chart.
+
+33
+00:03:18,720 --> 00:03:23,340
+So chart two, chart view, cue chart.
+
+34
+00:03:24,420 --> 00:03:27,930
+And now we can chart dot cities.
+
+35
+00:03:28,620 --> 00:03:30,210
+We want to add more series.
+
+36
+00:03:30,480 --> 00:03:36,270
+And also we need to add the line series.
+
+37
+00:03:37,500 --> 00:03:39,690
+And also, we can set title.
+
+38
+00:03:41,560 --> 00:03:45,010
+Wine and bar chart.
+
+39
+00:03:48,890 --> 00:03:57,260
+Let's create a chart view, CEW chart view, and we can add to the chart and the chart for you.
+
+40
+00:03:57,890 --> 00:04:03,710
+And then we can just say so dots at central widget to the chart.
+
+41
+00:04:05,850 --> 00:04:06,660
+Do the charts for you.
+
+42
+00:04:08,400 --> 00:04:11,310
+So now let's run this.
+
+43
+00:04:14,060 --> 00:04:21,260
+Now you can see that we have our line chart and also we have our bar chart.
+

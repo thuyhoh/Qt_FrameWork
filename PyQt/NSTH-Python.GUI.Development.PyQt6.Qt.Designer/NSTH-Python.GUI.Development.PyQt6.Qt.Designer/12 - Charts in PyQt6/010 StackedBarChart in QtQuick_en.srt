@@ -1,0 +1,68 @@
+1
+00:00:01,540 --> 00:00:06,430
+In this lesson, we want to learn that how we can create a stacked bar chart or a stacked bar series
+
+2
+00:00:06,430 --> 00:00:08,450
+using quick and QML.
+
+3
+00:00:10,560 --> 00:00:16,010
+Let's create another python file, not python but qml file.
+
+4
+00:00:16,020 --> 00:00:26,700
+And let me just call it stacked bar dot qml and we can just add or copy some codes.
+
+5
+00:00:26,700 --> 00:00:35,190
+So first we are going to just add these codes in here and let me change the title to uh, stacked.
+
+6
+00:00:36,060 --> 00:00:37,170
+Bar chart.
+
+7
+00:00:38,720 --> 00:00:41,270
+And let's close this.
+
+8
+00:00:41,270 --> 00:00:42,380
+Close this.
+
+9
+00:00:42,950 --> 00:00:48,030
+And now in here, we can create our stacked bar city.
+
+10
+00:00:48,050 --> 00:00:54,080
+So we can just say stacked bar cities like this.
+
+11
+00:00:57,620 --> 00:00:59,020
+We can add an ID.
+
+12
+00:00:59,030 --> 00:01:08,000
+So for example, my cities and let's add our some quotes from Barchart dot HTML and we can just grab
+
+13
+00:01:08,000 --> 00:01:11,360
+these quotes and add it in this section.
+
+14
+00:01:13,420 --> 00:01:16,750
+So we want to use the same data and there is no problem.
+
+15
+00:01:17,020 --> 00:01:20,290
+Let's add this to the load.py file.
+
+16
+00:01:22,500 --> 00:01:28,440
+So a stacked bokmal and we can run this.
+
+17
+00:01:28,980 --> 00:01:32,700
+So now we can see that we have a stacked bar chart in here.
+

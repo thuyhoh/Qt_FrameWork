@@ -1,0 +1,276 @@
+1
+00:00:00,740 --> 00:00:05,810
+In this lesson, we want to learn that how you can create pie chart or pie series and picked.
+
+2
+00:00:06,140 --> 00:00:08,630
+So now let's create a practical example.
+
+3
+00:00:10,300 --> 00:00:15,640
+Let me create a new python file in here and I'm going to just call it pie chart dot pie.
+
+4
+00:00:16,000 --> 00:00:22,270
+So first of all, we are going to just add our window code in here and we can change this to main window.
+
+5
+00:00:22,870 --> 00:00:27,820
+And let me change this to main window and we can add a window title.
+
+6
+00:00:27,820 --> 00:00:31,030
+So let me just say pie chart.
+
+7
+00:00:34,050 --> 00:00:37,590
+Now after creating of our main window.
+
+8
+00:00:37,590 --> 00:00:45,330
+Now let's add some imports from Pict six dot acuity charts.
+
+9
+00:00:46,050 --> 00:00:56,640
+We are going to import a chart Q chart view and also cube pie series like this.
+
+10
+00:00:58,160 --> 00:01:04,190
+After this, let's create our method in here and I'm going to just call it diff pie.
+
+11
+00:01:06,260 --> 00:01:10,250
+And in here first we need to create our pie series.
+
+12
+00:01:10,250 --> 00:01:11,930
+So pie series.
+
+13
+00:01:12,200 --> 00:01:17,150
+And after that we can add some, we can append some data.
+
+14
+00:01:18,350 --> 00:01:28,580
+So for example, we can just start Python and we can add the value in here series, dot append and cplusplus
+
+15
+00:01:28,760 --> 00:01:40,100
+and we can add a value in here series dot append, we can add a Java and after that we can add a value
+
+16
+00:01:40,100 --> 00:01:42,710
+and also dot append.
+
+17
+00:01:42,740 --> 00:01:46,550
+We can add C-sharp and let's add a volume here.
+
+18
+00:01:46,550 --> 00:01:50,660
+So after adding this, let's create our chart in here.
+
+19
+00:01:50,660 --> 00:01:57,630
+So I can just say chart chart and now we can add our series to the chart.
+
+20
+00:01:57,630 --> 00:02:05,820
+So chart dot Add series and we want to add our series in here after this.
+
+21
+00:02:05,820 --> 00:02:14,160
+We need to create chart view in here so I can just say chart view and we can add our chart in the chart
+
+22
+00:02:14,160 --> 00:02:14,700
+view.
+
+23
+00:02:14,700 --> 00:02:18,810
+And at the end we need to just set the central widget.
+
+24
+00:02:18,810 --> 00:02:23,220
+So self dot set central widget to the chart view.
+
+25
+00:02:24,920 --> 00:02:29,420
+Let's call our this solve dot pie chart in here.
+
+26
+00:02:29,540 --> 00:02:35,750
+And now if I run this, you can see that Now I have a pie chart in here.
+
+27
+00:02:37,720 --> 00:02:42,700
+Also, you can add animation or set animation for your pie chart.
+
+28
+00:02:42,850 --> 00:02:51,490
+So for example, up in here we can say chart dot, set animation options.
+
+29
+00:02:52,120 --> 00:02:56,650
+Chart dot animation options dot all animations.
+
+30
+00:02:58,030 --> 00:03:00,340
+And also we can set the title.
+
+31
+00:03:00,340 --> 00:03:02,140
+So dot set title.
+
+32
+00:03:03,780 --> 00:03:06,060
+Or we can just say pie chart.
+
+33
+00:03:07,770 --> 00:03:09,450
+Pie chart.
+
+34
+00:03:10,740 --> 00:03:12,090
+Example.
+
+35
+00:03:13,830 --> 00:03:18,930
+So now if I run this, you can see that we have a simple animation.
+
+36
+00:03:19,230 --> 00:03:22,040
+And also, let me just run it again.
+
+37
+00:03:22,050 --> 00:03:25,170
+So we have animation and also we have title in here.
+
+38
+00:03:27,520 --> 00:03:32,560
+Also you can add a theme for the chart.
+
+39
+00:03:32,740 --> 00:03:38,650
+So for example, in here we can just say chart, dot, set.
+
+40
+00:03:40,320 --> 00:03:40,890
+The team.
+
+41
+00:03:40,890 --> 00:03:43,640
+And also now we can add the type.
+
+42
+00:03:43,650 --> 00:03:45,510
+There are different types that you can use.
+
+43
+00:03:45,660 --> 00:03:50,450
+Chart team dot, for example, chart, uh, Team Blue.
+
+44
+00:03:53,280 --> 00:03:57,840
+So you can see that we have, uh, it's changed.
+
+45
+00:03:57,840 --> 00:04:08,520
+And also you can add, uh, legend, uh, for right now, if you see in here, uh, we have the legend
+
+46
+00:04:08,520 --> 00:04:09,540
+in this section.
+
+47
+00:04:09,540 --> 00:04:14,610
+Now, if you want to make it disable, you can just use chart dot legend.
+
+48
+00:04:15,450 --> 00:04:19,470
+Uh, dot set visible, and we can just make it to false.
+
+49
+00:04:19,620 --> 00:04:24,600
+So if I run this, you can see that we don't have the legend in here.
+
+50
+00:04:25,500 --> 00:04:30,570
+Now, let me just comment this, uh, also, you can change the position of the legend.
+
+51
+00:04:30,570 --> 00:04:32,130
+So right now it's on the top.
+
+52
+00:04:32,130 --> 00:04:34,770
+You can just make that to the bottom.
+
+53
+00:04:34,770 --> 00:04:39,870
+So for example, we can use dot legend, dot set alignment.
+
+54
+00:04:39,870 --> 00:04:42,390
+And first we need to import.
+
+55
+00:04:44,490 --> 00:04:49,710
+So from core, we are going to import.
+
+56
+00:04:52,890 --> 00:04:59,370
+And in here we can use dot alignment, flag dot line bottom.
+
+57
+00:05:01,060 --> 00:05:08,230
+So if I run this and now you can see that this legend is in the bottom.
+
+58
+00:05:09,290 --> 00:05:09,480
+Uh.
+
+59
+00:05:11,580 --> 00:05:21,510
+Also, you can add a slice for the chart, for the pie chart for that in here, let me just say add
+
+60
+00:05:21,510 --> 00:05:22,380
+a slice.
+
+61
+00:05:24,990 --> 00:05:27,000
+So misspelling.
+
+62
+00:05:27,030 --> 00:05:28,380
+Add a slice.
+
+63
+00:05:28,500 --> 00:05:39,240
+Now we can say my slice and we can use series dot slices and I want to add the slice for index two so
+
+64
+00:05:39,240 --> 00:05:42,630
+you can see zero index one index and this is index two.
+
+65
+00:05:42,670 --> 00:05:51,990
+I want to add a slice for the Java and we can just say my slice dot set, explode it and make this to
+
+66
+00:05:51,990 --> 00:05:52,590
+true.
+
+67
+00:05:53,040 --> 00:06:00,060
+And also we can just say my slide dot set label visible and we can make it to true.
+
+68
+00:06:00,420 --> 00:06:07,050
+So now if I run this, you can see that now we have the Java and it's exploded and we have the slice
+
+69
+00:06:07,050 --> 00:06:08,190
+of Java in here.
+
