@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>android.png</file>
+        <file>menu.png</file>
+    </qresource>
+</RCC>

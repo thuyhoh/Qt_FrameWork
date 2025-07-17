@@ -1,0 +1,12 @@
+# ninja log v6
+7	653	7742009386152697	001_IconExample_autogen/timestamp	dafbb3fc8a197e89
+7	653	7742009386152697	001_IconExample_autogen/mocs_compilation.cpp	dafbb3fc8a197e89
+7	653	7742009386152697	D:/GUI/Qt_Framework/Qt6-Cpp/Tutorial_Templates/001_IconExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/001_IconExample_autogen/timestamp	dafbb3fc8a197e89
+7	653	7742009386152697	D:/GUI/Qt_Framework/Qt6-Cpp/Tutorial_Templates/001_IconExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/001_IconExample_autogen/mocs_compilation.cpp	dafbb3fc8a197e89
+656	728	7742009387548387	001_IconExample_autogen/EWIEGA46WW/qrc_resources.cpp	d7a1f47ce9ca526a
+656	728	7742009387548387	D:/GUI/Qt_Framework/Qt6-Cpp/Tutorial_Templates/001_IconExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/001_IconExample_autogen/EWIEGA46WW/qrc_resources.cpp	d7a1f47ce9ca526a
+737	928	7742009387721500	CMakeFiles/001_IconExample.dir/001_IconExample_autogen/EWIEGA46WW/qrc_resources.cpp.obj	5886a64fbc90675
+734	3050	7742009387691492	CMakeFiles/001_IconExample.dir/mainwindow.cpp.obj	2030e343a515c62a
+728	3065	7742009387630149	CMakeFiles/001_IconExample.dir/001_IconExample_autogen/mocs_compilation.cpp.obj	370d659ce6588f20
+731	3125	7742009387660186	CMakeFiles/001_IconExample.dir/main.cpp.obj	b5dba1d84fa17949
+3125	3298	7742009411598564	001_IconExample.exe	8e2fb6a8c2a5e241
