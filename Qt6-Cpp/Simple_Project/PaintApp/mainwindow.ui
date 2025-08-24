@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="actionSave"/>
+    <addaction name="actionClear"/>
+   </widget>
+   <widget class="QMenu" name="menuBrush_size">
+    <property name="title">
+     <string>Brush size</string>
+    </property>
+    <addaction name="action3px"/>
+    <addaction name="action5px"/>
+    <addaction name="action7px"/>
+    <addaction name="action9px"/>
+   </widget>
+   <widget class="QMenu" name="menuBrush_color">
+    <property name="title">
+     <string>Brush color</string>
+    </property>
+    <addaction name="actionRed"/>
+    <addaction name="actionBlue"/>
+    <addaction name="actionGreen"/>
+    <addaction name="actionWhite"/>
+    <addaction name="actionBlack"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuBrush_size"/>
+   <addaction name="menuBrush_color"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionSave">
+   <property name="text">
+    <string>Save</string>
+   </property>
+  </action>
+  <action name="actionClear">
+   <property name="text">
+    <string>Clear</string>
+   </property>
+  </action>
+  <action name="action3px">
+   <property name="text">
+    <string>3px</string>
+   </property>
+  </action>
+  <action name="action5px">
+   <property name="text">
+    <string>5px</string>
+   </property>
+  </action>
+  <action name="action7px">
+   <property name="text">
+    <string>7px</string>
+   </property>
+  </action>
+  <action name="action9px">
+   <property name="text">
+    <string>9px</string>
+   </property>
+  </action>
+  <action name="actionRed">
+   <property name="text">
+    <string>Red</string>
+   </property>
+  </action>
+  <action name="actionBlue">
+   <property name="text">
+    <string>Blue</string>
+   </property>
+  </action>
+  <action name="actionGreen">
+   <property name="text">
+    <string>Green</string>
+   </property>
+  </action>
+  <action name="actionWhite">
+   <property name="text">
+    <string>White</string>
+   </property>
+  </action>
+  <action name="actionBlack">
+   <property name="text">
+    <string>Black</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
