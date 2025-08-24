@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d39166000e44977385e6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "001_IconExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "001_IconExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001_IconExample-Debug-dd82f0ad34de3249ab98.json",
+					"name" : "001_IconExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "001_IconExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001_IconExample_autogen-Debug-3531b5d7cfcc8fcd1965.json",
+					"name" : "001_IconExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "001_IconExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001_IconExample_autogen_timestamp_deps-Debug-b59e155b7b617b306dc8.json",
+					"name" : "001_IconExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/GUI/Qt_Framework/Qt6-Cpp/Tutorial_Templates/001_IconExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "D:/GUI/Qt_Framework/Qt6-Cpp/Tutorial_Templates/001_WidgetTemplates/001_IconExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
