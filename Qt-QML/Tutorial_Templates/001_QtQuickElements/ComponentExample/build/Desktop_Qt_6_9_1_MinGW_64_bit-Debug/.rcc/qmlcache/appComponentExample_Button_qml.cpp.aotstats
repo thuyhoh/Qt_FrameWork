@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 2090,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 434,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 17
+                    }
+                ],
+                "filePath": "D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/001_QtQuickElements/ComponentExample/Button.qml"
+            }
+        ],
+        "moduleId": "ComponentExample(appComponentExample)"
+    }
+]

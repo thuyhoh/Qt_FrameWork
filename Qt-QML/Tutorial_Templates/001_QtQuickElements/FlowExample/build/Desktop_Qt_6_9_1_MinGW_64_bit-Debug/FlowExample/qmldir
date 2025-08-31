@@ -1,0 +1,5 @@
+module FlowExample
+typeinfo appFlowExample.qmltypes
+prefer :/qt/qml/FlowExample/
+Main 1.0 Main.qml
+

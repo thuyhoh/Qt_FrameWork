@@ -1,0 +1,10 @@
+--bare
+-I
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/001_QtQuickElements/RowExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.1/mingw_64/qml
+--resource
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/001_QtQuickElements/RowExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_RowExample.qrc
+--resource
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/001_QtQuickElements/RowExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appRowExample_raw_qml_0.qrc
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/001_QtQuickElements/RowExample/Main.qml

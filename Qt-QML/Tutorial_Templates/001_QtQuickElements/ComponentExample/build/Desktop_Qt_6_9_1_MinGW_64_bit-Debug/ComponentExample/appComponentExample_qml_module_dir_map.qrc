@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ComponentExample">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/001_QtQuickElements/ComponentExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ComponentExample</file>
+
+  </qresource>
+</RCC>

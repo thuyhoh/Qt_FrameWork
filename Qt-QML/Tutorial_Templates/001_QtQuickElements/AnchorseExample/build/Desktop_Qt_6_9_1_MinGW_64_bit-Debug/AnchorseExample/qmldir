@@ -1,0 +1,5 @@
+module AnchorseExample
+typeinfo appAnchorseExample.qmltypes
+prefer :/qt/qml/AnchorseExample/
+Main 1.0 Main.qml
+

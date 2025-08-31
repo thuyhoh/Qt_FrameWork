@@ -1,0 +1,5 @@
+module KeyElementExample
+typeinfo appKeyElementExample.qmltypes
+prefer :/qt/qml/KeyElementExample/
+Main 1.0 Main.qml
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/FlowExample/">
+    <file alias="Main.qml">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/001_QtQuickElements/FlowExample/Main.qml</file>
+  </qresource>
+</RCC>
+

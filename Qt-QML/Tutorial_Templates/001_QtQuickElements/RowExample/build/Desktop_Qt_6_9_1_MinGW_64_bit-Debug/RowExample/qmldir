@@ -1,0 +1,5 @@
+module RowExample
+typeinfo appRowExample.qmltypes
+prefer :/qt/qml/RowExample/
+Main 1.0 Main.qml
+

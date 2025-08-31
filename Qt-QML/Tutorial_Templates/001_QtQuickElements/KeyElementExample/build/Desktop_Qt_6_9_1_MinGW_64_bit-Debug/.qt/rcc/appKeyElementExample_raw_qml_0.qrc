@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/KeyElementExample/">
+    <file alias="Main.qml">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/001_QtQuickElements/KeyElementExample/Main.qml</file>
+  </qresource>
+</RCC>
+
