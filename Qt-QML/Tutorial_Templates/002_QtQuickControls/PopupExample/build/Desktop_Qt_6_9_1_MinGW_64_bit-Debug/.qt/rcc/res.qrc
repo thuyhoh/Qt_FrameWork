@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="Images/qt.png">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/PopupExample/Images/qt.png</file>
+  </qresource>
+</RCC>
+

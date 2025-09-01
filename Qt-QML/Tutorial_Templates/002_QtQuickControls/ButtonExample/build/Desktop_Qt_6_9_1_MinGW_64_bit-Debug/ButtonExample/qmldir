@@ -1,0 +1,5 @@
+module ButtonExample
+typeinfo appButtonExample.qmltypes
+prefer :/qt/qml/ButtonExample/
+Main 1.0 Main.qml
+

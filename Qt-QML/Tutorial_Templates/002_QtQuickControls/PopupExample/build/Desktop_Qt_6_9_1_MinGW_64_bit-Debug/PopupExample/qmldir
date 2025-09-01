@@ -1,0 +1,5 @@
+module PopupExample
+typeinfo appPopupExample.qmltypes
+prefer :/qt/qml/PopupExample/
+Main 1.0 Main.qml
+

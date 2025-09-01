@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appContextMenuExample_FILE D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/ContextMenuExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appContextMenuExample.exe)
+set(__QT_DEPLOY_TARGET_appContextMenuExample_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appContextMenuExample_RUNTIME_DLLS C:/Qt/6.9.1/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6Network.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6Core.dll)

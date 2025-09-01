@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/TextFieldExample/">
+    <file alias="Main.qml">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/TextFieldExample/Main.qml</file>
+  </qresource>
+</RCC>
+

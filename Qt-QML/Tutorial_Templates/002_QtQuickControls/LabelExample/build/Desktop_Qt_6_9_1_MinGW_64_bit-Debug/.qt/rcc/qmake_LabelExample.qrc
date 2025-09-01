@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/LabelExample">
+    <file alias="qmldir">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/LabelExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/LabelExample/qmldir</file>
+  </qresource>
+</RCC>
+

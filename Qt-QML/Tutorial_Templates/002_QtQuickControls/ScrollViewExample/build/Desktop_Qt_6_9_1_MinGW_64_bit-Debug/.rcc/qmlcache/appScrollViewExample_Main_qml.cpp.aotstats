@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 24
+                    }
+                ],
+                "filePath": "D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/ScrollViewExample/Main.qml"
+            }
+        ],
+        "moduleId": "ScrollViewExample(appScrollViewExample)"
+    }
+]

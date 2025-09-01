@@ -1,0 +1,5 @@
+module OverlayExample
+typeinfo appOverlayExample.qmltypes
+prefer :/qt/qml/OverlayExample/
+Main 1.0 Main.qml
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/TooltipExample/">
+    <file alias="Main.qml">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/TooltipExample/Main.qml</file>
+  </qresource>
+</RCC>
+

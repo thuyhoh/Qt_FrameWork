@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ScrollViewExample">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/ScrollViewExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ScrollViewExample</file>
+
+  </qresource>
+</RCC>

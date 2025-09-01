@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5a731718054c50450c1d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CheckBoxExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-eb4efec3caa1fa32cf56.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-78dc25abb0b0b3ca4a35.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-73b2df5adbd6f8833d53.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-c27a0a2e11f4ca88f968.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-85449d37cc435bd7b41f.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCheckBoxExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCheckBoxExample-Debug-38781840672b080d3c89.json",
+					"name" : "appCheckBoxExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCheckBoxExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCheckBoxExample_autogen-Debug-167b6039a52f7650ab4a.json",
+					"name" : "appCheckBoxExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCheckBoxExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCheckBoxExample_autogen_timestamp_deps-Debug-9e43e9ad029586bb8bba.json",
+					"name" : "appCheckBoxExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCheckBoxExample_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCheckBoxExample_copy_qml-Debug-4afacfb670c6d74f5c81.json",
+					"name" : "appCheckBoxExample_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCheckBoxExample_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCheckBoxExample_copy_res-Debug-dcab86df399acf3372f3.json",
+					"name" : "appCheckBoxExample_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCheckBoxExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCheckBoxExample_qmlimportscan-Debug-6a8fbd0738b8a7eff7fe.json",
+					"name" : "appCheckBoxExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCheckBoxExample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCheckBoxExample_qmllint-Debug-bf7229c35e9ed3565cf1.json",
+					"name" : "appCheckBoxExample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCheckBoxExample_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCheckBoxExample_qmllint_json-Debug-21096a24f5f5b520ade1.json",
+					"name" : "appCheckBoxExample_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCheckBoxExample_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCheckBoxExample_qmllint_module-Debug-2f584c8ebb1e8390b017.json",
+					"name" : "appCheckBoxExample_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCheckBoxExample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCheckBoxExample_qmltyperegistration-Debug-6018f3d15663123a0506.json",
+					"name" : "appCheckBoxExample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appCheckBoxExample_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appCheckBoxExample_aotstats_target-Debug-0aef583a83415a623a9a.json",
+					"name" : "module_appCheckBoxExample_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/CheckBoxExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/CheckBoxExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

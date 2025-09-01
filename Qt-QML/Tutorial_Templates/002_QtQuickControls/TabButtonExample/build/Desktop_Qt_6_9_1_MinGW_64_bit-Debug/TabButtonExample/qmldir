@@ -1,0 +1,5 @@
+module TabButtonExample
+typeinfo appTabButtonExample.qmltypes
+prefer :/qt/qml/TabButtonExample/
+Main 1.0 Main.qml
+

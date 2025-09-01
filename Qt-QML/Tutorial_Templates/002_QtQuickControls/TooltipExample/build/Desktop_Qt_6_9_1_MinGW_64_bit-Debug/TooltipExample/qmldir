@@ -1,0 +1,5 @@
+module TooltipExample
+typeinfo appTooltipExample.qmltypes
+prefer :/qt/qml/TooltipExample/
+Main 1.0 Main.qml
+

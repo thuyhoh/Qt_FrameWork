@@ -1,0 +1,5 @@
+module CheckBoxExample
+typeinfo appCheckBoxExample.qmltypes
+prefer :/qt/qml/CheckBoxExample/
+Main 1.0 Main.qml
+

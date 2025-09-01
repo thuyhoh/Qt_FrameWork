@@ -1,0 +1,5 @@
+module StackViewExample
+typeinfo appStackViewExample.qmltypes
+prefer :/qt/qml/StackViewExample/
+Main 1.0 Main.qml
+

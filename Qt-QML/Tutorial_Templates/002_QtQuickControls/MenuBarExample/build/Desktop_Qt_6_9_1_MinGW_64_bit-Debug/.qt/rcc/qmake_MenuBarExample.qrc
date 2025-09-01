@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/MenuBarExample">
+    <file alias="qmldir">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/MenuBarExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MenuBarExample/qmldir</file>
+  </qresource>
+</RCC>
+

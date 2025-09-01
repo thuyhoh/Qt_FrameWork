@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/BusyIndicationExample/">
+    <file alias="Main.qml">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/BusyIndicationExample/Main.qml</file>
+  </qresource>
+</RCC>
+

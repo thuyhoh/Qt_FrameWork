@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1146249a30ee1c7f2c26.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TabButtonExample",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-ed671d68fc7ec7db824a.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ccd37127b21ad420ecea.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-9a91c1a99244f291f075.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-69fc5f34ee754f6f6d5e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-05ca576fb03b76be28e7.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabButtonExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabButtonExample-Debug-4cbf0c6e824a032d64dd.json",
+					"name" : "appTabButtonExample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabButtonExample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabButtonExample_autogen-Debug-da3b663afeea3d58f979.json",
+					"name" : "appTabButtonExample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabButtonExample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabButtonExample_autogen_timestamp_deps-Debug-2f3eb2297ad1e4392048.json",
+					"name" : "appTabButtonExample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabButtonExample_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabButtonExample_copy_qml-Debug-3dd12c1f2655b5c71cad.json",
+					"name" : "appTabButtonExample_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabButtonExample_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabButtonExample_copy_res-Debug-be7e2b09843f8c4020cb.json",
+					"name" : "appTabButtonExample_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabButtonExample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabButtonExample_qmlimportscan-Debug-c4ab704a1c3d7056042e.json",
+					"name" : "appTabButtonExample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabButtonExample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabButtonExample_qmllint-Debug-cb3eba93842f239f29a0.json",
+					"name" : "appTabButtonExample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabButtonExample_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabButtonExample_qmllint_json-Debug-9a39d05a5fe03f577170.json",
+					"name" : "appTabButtonExample_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabButtonExample_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabButtonExample_qmllint_module-Debug-56e3e36573b3435f66ed.json",
+					"name" : "appTabButtonExample_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTabButtonExample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTabButtonExample_qmltyperegistration-Debug-b338e12d1f097d9946f6.json",
+					"name" : "appTabButtonExample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appTabButtonExample_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appTabButtonExample_aotstats_target-Debug-40b807958f7b1d90fa7e.json",
+					"name" : "module_appTabButtonExample_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/TabButtonExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/TabButtonExample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

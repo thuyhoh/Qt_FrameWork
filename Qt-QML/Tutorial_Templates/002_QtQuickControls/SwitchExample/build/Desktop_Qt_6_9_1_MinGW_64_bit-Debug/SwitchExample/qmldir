@@ -1,0 +1,5 @@
+module SwitchExample
+typeinfo appSwitchExample.qmltypes
+prefer :/qt/qml/SwitchExample/
+Main 1.0 Main.qml
+

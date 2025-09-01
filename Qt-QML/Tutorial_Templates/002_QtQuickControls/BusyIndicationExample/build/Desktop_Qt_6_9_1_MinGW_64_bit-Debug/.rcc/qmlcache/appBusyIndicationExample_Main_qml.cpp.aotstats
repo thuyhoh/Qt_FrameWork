@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 193,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 12
+                    }
+                ],
+                "filePath": "D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/BusyIndicationExample/Main.qml"
+            }
+        ],
+        "moduleId": "BusyIndicationExample(appBusyIndicationExample)"
+    }
+]

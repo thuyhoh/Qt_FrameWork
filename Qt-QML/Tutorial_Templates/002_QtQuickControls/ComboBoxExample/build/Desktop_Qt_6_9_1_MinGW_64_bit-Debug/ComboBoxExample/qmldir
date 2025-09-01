@@ -1,0 +1,5 @@
+module ComboBoxExample
+typeinfo appComboBoxExample.qmltypes
+prefer :/qt/qml/ComboBoxExample/
+Main 1.0 Main.qml
+

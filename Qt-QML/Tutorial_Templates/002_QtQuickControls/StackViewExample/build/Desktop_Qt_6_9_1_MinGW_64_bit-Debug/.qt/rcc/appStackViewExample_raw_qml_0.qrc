@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/StackViewExample/">
+    <file alias="Main.qml">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/StackViewExample/Main.qml</file>
+  </qresource>
+</RCC>
+

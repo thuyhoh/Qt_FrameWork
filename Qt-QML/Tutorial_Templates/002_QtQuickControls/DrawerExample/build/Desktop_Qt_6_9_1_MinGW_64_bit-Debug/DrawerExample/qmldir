@@ -1,0 +1,5 @@
+module DrawerExample
+typeinfo appDrawerExample.qmltypes
+prefer :/qt/qml/DrawerExample/
+Main 1.0 Main.qml
+

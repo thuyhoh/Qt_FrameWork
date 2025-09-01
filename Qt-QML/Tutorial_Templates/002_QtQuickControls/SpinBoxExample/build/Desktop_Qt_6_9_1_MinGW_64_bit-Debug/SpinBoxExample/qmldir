@@ -1,0 +1,5 @@
+module SpinBoxExample
+typeinfo appSpinBoxExample.qmltypes
+prefer :/qt/qml/SpinBoxExample/
+Main 1.0 Main.qml
+

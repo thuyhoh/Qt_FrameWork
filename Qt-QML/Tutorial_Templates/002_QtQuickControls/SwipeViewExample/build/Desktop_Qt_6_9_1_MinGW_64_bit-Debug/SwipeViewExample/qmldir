@@ -1,0 +1,5 @@
+module SwipeViewExample
+typeinfo appSwipeViewExample.qmltypes
+prefer :/qt/qml/SwipeViewExample/
+Main 1.0 Main.qml
+

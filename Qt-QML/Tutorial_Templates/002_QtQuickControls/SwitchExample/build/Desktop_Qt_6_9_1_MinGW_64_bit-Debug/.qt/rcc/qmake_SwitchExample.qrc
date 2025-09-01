@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SwitchExample">
+    <file alias="qmldir">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/SwitchExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SwitchExample/qmldir</file>
+  </qresource>
+</RCC>
+

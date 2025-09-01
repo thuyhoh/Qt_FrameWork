@@ -1,0 +1,15 @@
+-rootPath
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/PopupExample
+-cmake-output
+-output-file
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/PopupExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appPopupExample_build.cmake
+-importPath
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/PopupExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/PopupExample
+-importPath
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/PopupExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.1/mingw_64/qml
+-qrcFiles
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/PopupExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_PopupExample.qrc
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/PopupExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appPopupExample_raw_qml_0.qrc
+D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/PopupExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/res.qrc

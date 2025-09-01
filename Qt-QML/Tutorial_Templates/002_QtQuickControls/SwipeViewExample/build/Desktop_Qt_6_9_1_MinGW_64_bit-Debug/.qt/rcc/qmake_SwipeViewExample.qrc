@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SwipeViewExample">
+    <file alias="qmldir">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/SwipeViewExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SwipeViewExample/qmldir</file>
+  </qresource>
+</RCC>
+

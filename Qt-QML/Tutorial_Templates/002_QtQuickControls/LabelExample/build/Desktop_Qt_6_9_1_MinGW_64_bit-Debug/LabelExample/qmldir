@@ -1,0 +1,5 @@
+module LabelExample
+typeinfo appLabelExample.qmltypes
+prefer :/qt/qml/LabelExample/
+Main 1.0 Main.qml
+

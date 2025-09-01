@@ -1,0 +1,5 @@
+module SliderExample
+typeinfo appSliderExample.qmltypes
+prefer :/qt/qml/SliderExample/
+Main 1.0 Main.qml
+

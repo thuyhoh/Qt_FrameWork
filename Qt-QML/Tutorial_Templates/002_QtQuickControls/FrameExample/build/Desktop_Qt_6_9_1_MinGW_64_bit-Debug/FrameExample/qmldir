@@ -1,0 +1,5 @@
+module FrameExample
+typeinfo appFrameExample.qmltypes
+prefer :/qt/qml/FrameExample/
+Main 1.0 Main.qml
+

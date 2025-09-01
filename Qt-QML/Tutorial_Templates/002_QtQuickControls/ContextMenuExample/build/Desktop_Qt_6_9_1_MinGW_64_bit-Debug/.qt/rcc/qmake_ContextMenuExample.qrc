@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ContextMenuExample">
+    <file alias="qmldir">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/ContextMenuExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ContextMenuExample/qmldir</file>
+  </qresource>
+</RCC>
+

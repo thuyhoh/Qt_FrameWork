@@ -1,0 +1,5 @@
+module TextFieldExample
+typeinfo appTextFieldExample.qmltypes
+prefer :/qt/qml/TextFieldExample/
+Main 1.0 Main.qml
+

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/PopupExample/">
+    <file alias="Main.qml">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/PopupExample/Main.qml</file>
+    <file alias="res.qrc">D:/GUI/Qt_FrameWork/Qt-QML/Tutorial_Templates/002_QtQuickControls/PopupExample/res.qrc</file>
+  </qresource>
+</RCC>
+
