@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-aef0329caa6065bd7449.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "002-SerialCOMPort",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "002-SerialCOMPort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-002-SerialCOMPort-Debug-12d0c81e51c55a875114.json",
+					"name" : "002-SerialCOMPort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "002-SerialCOMPort_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-002-SerialCOMPort_autogen-Debug-51c37aa07fc4bdfef69a.json",
+					"name" : "002-SerialCOMPort_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "002-SerialCOMPort_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-002-SerialCOMPort_autogen_timestamp_deps-Debug-cecd1f76144b060ab317.json",
+					"name" : "002-SerialCOMPort_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/002-SerialCOMPort/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/002-SerialCOMPort"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

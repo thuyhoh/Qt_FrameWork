@@ -1,0 +1,9 @@
+D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/001-QSerialPortInfo.dir
+D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/001-QSerialPortInfo_autogen_timestamp_deps.dir
+D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/001-QSerialPortInfo_autogen.dir

@@ -1,0 +1,15 @@
+# ninja log v6
+8	1119	7792636150861963	001-QSerialPortInfo_autogen/timestamp	6d352c6ca78b37b7
+8	1119	7792636150861963	001-QSerialPortInfo_autogen/mocs_compilation.cpp	6d352c6ca78b37b7
+8	1119	7792636150861963	D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/001-QSerialPortInfo_autogen/timestamp	6d352c6ca78b37b7
+8	1119	7792636150861963	D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/001-QSerialPortInfo_autogen/mocs_compilation.cpp	6d352c6ca78b37b7
+1135	4188	7792636152088640	CMakeFiles/001-QSerialPortInfo.dir/mainwindow.cpp.obj	a4bdc2a8ea1761ec
+1125	4281	7792636151985667	CMakeFiles/001-QSerialPortInfo.dir/001-QSerialPortInfo_autogen/mocs_compilation.cpp.obj	68a1a6dbc534e361
+1130	4317	7792636152033499	CMakeFiles/001-QSerialPortInfo.dir/main.cpp.obj	7fe67d4009618cc4
+4317	4649	7792636183908363	001-QSerialPortInfo.exe	9efa776c12d256aa
+34	171	7792638015558825	001-QSerialPortInfo_autogen/timestamp	6d352c6ca78b37b7
+34	171	7792638015558825	001-QSerialPortInfo_autogen/mocs_compilation.cpp	6d352c6ca78b37b7
+34	171	7792638015558825	D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/001-QSerialPortInfo_autogen/timestamp	6d352c6ca78b37b7
+34	171	7792638015558825	D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/001-QSerialPortInfo/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/001-QSerialPortInfo_autogen/mocs_compilation.cpp	6d352c6ca78b37b7
+171	1748	7792638016932531	CMakeFiles/001-QSerialPortInfo.dir/mainwindow.cpp.obj	a4bdc2a8ea1761ec
+1748	1889	7792638032696418	001-QSerialPortInfo.exe	9efa776c12d256aa

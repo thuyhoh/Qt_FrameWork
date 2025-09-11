@@ -1,0 +1,16 @@
+# ninja log v6
+7	623	7792768547830579	002-SerialCOMPort_autogen/timestamp	6bb922fb380baa85
+7	623	7792768547830579	002-SerialCOMPort_autogen/mocs_compilation.cpp	6bb922fb380baa85
+7	623	7792768547830579	D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/002-SerialCOMPort/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/002-SerialCOMPort_autogen/timestamp	6bb922fb380baa85
+7	623	7792768547830579	D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/002-SerialCOMPort/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/002-SerialCOMPort_autogen/mocs_compilation.cpp	6bb922fb380baa85
+627	2470	7792768548538654	CMakeFiles/002-SerialCOMPort.dir/002-SerialCOMPort_autogen/mocs_compilation.cpp.obj	4a29d738a4ce6191
+630	2518	7792768548572217	CMakeFiles/002-SerialCOMPort.dir/main.cpp.obj	e1926c88f407892b
+25	195	7792770054511461	002-SerialCOMPort_autogen/timestamp	6bb922fb380baa85
+25	195	7792770054511461	002-SerialCOMPort_autogen/mocs_compilation.cpp	6bb922fb380baa85
+25	195	7792770054511461	D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/002-SerialCOMPort/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/002-SerialCOMPort_autogen/timestamp	6bb922fb380baa85
+25	195	7792770054511461	D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/002-SerialCOMPort/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/002-SerialCOMPort_autogen/mocs_compilation.cpp	6bb922fb380baa85
+11	159	7792771797045296	002-SerialCOMPort_autogen/timestamp	6bb922fb380baa85
+11	159	7792771797045296	002-SerialCOMPort_autogen/mocs_compilation.cpp	6bb922fb380baa85
+11	159	7792771797045296	D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/002-SerialCOMPort/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/002-SerialCOMPort_autogen/timestamp	6bb922fb380baa85
+11	159	7792771797045296	D:/GUI/Qt_FrameWork/Qt6-Cpp/Tutorial_Templates/012_SerialCOMPort/002-SerialCOMPort/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/002-SerialCOMPort_autogen/mocs_compilation.cpp	6bb922fb380baa85
+159	1972	7792771798530637	CMakeFiles/002-SerialCOMPort.dir/mainwindow.cpp.obj	896229592a53274
